@@ -1,0 +1,10 @@
+Python: 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]
+TensorFlow: 2.20.0
+Keras: 3.11.3
+tf_keras: 2.20.1
+Transformers: 4.46.0
+Transformers path: C:\Users\PC\AppData\Roaming\Python\Python313\site-packages\transformers\__init__.py
+is_tf_available: True
+is_torch_available: True
+is_flax_available: False
+TFAutoModel in transformers? True
